@@ -1,1 +1,1 @@
-Synopsis For Flixmu TV
+Synopsis for Flixmu TV
