@@ -1,0 +1,3 @@
+Yotsuya Yuusuke bersama teman-teman sekelasnya Shindou Iu dan Hakozaki Kusue telah dipindahkan ke dunia yang aneh dan tidak dikenal yang dihuni oleh makhluk mitologis. Segera setelah mereka tiba, mereka bertemu seseorang yang menyebut dirinya Master Game yang kemudian memberi mereka pencarian terbatas waktu. Untuk membantu mereka dalam pencarian ini, dia juga menganugerahkan Shindou dan Hakozaki dengan peran sebagai Penyihir dan Prajurit sementara Yotsuya secara acak diberikan peran ... Petani?!
+
+Beginilah kehidupan petualangan yang sibuk dimulai untuk tiga siswa yang sekarang tidak punya pilihan, selain menyelesaikan pencarian acak untuk beberapa fase di dunia fantasi jika mereka ingin tetap hidup dan melindungi dunia nyata dari iblis dan monster yang mereka temui.
