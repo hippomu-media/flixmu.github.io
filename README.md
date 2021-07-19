@@ -1,2 +1,2 @@
 # MetaData
-MetaData for Flixmu TV
+MetaData for Flixmu
