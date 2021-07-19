@@ -1,0 +1,1356 @@
+﻿1
+00:00:01,920 --> 00:00:04,260
+The day after the defeat of the Demon Lord Geld,
+
+2
+00:00:04,260 --> 00:00:06,940
+representatives of each race gathered together
+
+3
+00:00:07,520 --> 00:00:09,600
+to discuss what would happen after the battle.
+
+4
+00:00:10,810 --> 00:00:14,950
+Chairman Rimuru Tempest, please begin the conference.
+
+5
+00:00:14,950 --> 00:00:16,700
+Uh...
+
+6
+00:00:32,424 --> 00:00:37,991
+In the night you could count stars in the sky
+
+7
+00:00:37,991 --> 00:00:43,489
+The overflown drop reflects the swaying world
+
+8
+00:00:43,489 --> 00:00:49,386
+All life are in ambivalence
+
+9
+00:00:49,386 --> 00:00:54,182
+And it twinkles as the days goes by
+
+10
+00:00:54,850 --> 00:01:00,774
+Both short-lived flowers and devastating winds
+
+11
+00:01:00,774 --> 00:01:05,026
+are the sign of the passing present
+
+12
+00:01:05,821 --> 00:01:11,812
+To those who live in the moment, this song shall reach you
+
+13
+00:01:11,812 --> 00:01:19,902
+It will push you to the limits of freedom, telling you to survive
+
+14
+00:01:19,902 --> 00:01:22,677
+We will find the way
+
+15
+00:01:22,677 --> 00:01:31,010
+We returners all equally carry a seed of hope
+
+16
+00:01:31,010 --> 00:01:37,513
+Under the whim of miracle, Birth and Demise shall join hand
+
+17
+00:01:37,513 --> 00:01:41,572
+and the time will flow once again
+
+18
+00:01:53,280 --> 00:01:57,770
+Uh... I've never led a meeting like this before, so it's not my strong suit.
+
+19
+00:01:57,770 --> 00:02:00,070
+So I'll just say what's on my mind.
+
+20
+00:02:00,530 --> 00:02:03,380
+I'd like you to save your deliberations until after that.
+
+21
+00:02:05,150 --> 00:02:09,920
+I'll start by saying this: I don't intend to charge the Orcs with any crimes.
+
+22
+00:02:12,950 --> 00:02:15,780
+I know this may upset the Lizardmen, who suffered the most casualties,
+
+23
+00:02:16,080 --> 00:02:17,130
+but hear me out.
+
+24
+00:02:18,660 --> 00:02:21,900
+The cause of all this was starvation due to a famine.
+
+25
+00:02:21,900 --> 00:02:27,380
+Anyone, of any race, might have made the same choices under those conditions.
+
+26
+00:02:28,570 --> 00:02:31,550
+Of course, this is just my public stance on the matter.
+
+27
+00:02:32,660 --> 00:02:36,300
+Then may we hear your personal thoughts on it, as well?
+
+28
+00:02:37,620 --> 00:02:40,720
+I've taken all of the Orcs' sins upon myself.
+
+29
+00:02:40,720 --> 00:02:42,460
+If anyone has a complaint, bring it to me.
+
+30
+00:02:42,460 --> 00:02:44,480
+P-Please, wait!
+
+31
+00:02:44,480 --> 00:02:46,270
+Surely there is no logic to—
+
+32
+00:02:46,450 --> 00:02:49,140
+That was my promise with the Demon Lord Geld.
+
+33
+00:02:55,430 --> 00:02:56,840
+I see.
+
+34
+00:02:57,340 --> 00:03:01,240
+However, I feel that answer is somewhat unfair.
+
+35
+00:03:01,390 --> 00:03:04,840
+Yeah, I can see why he wouldn't accept it so easily.
+
+36
+00:03:06,660 --> 00:03:09,750
+There is one immutable rule shared among all monsters:
+
+37
+00:03:10,310 --> 00:03:12,140
+"Survival of the fittest."
+
+38
+00:03:12,140 --> 00:03:15,373
+The moment they faced each other, they were both prepared for that.
+
+39
+00:03:16,390 --> 00:03:20,490
+You guys lost your home, too. Don't you have any complaints?
+
+40
+00:03:20,490 --> 00:03:22,870
+I would be lying if I said we didn't,
+
+41
+00:03:22,870 --> 00:03:25,720
+but if it happens again, we will not disgrace ourselves a second time.
+
+42
+00:03:28,380 --> 00:03:29,675
+Uh-huh...
+
+43
+00:03:30,050 --> 00:03:32,820
+I see... That is a fair point.
+
+44
+00:03:33,260 --> 00:03:37,480
+But there is one thing I must know.
+
+45
+00:03:37,850 --> 00:03:38,850
+What's that?
+
+46
+00:03:39,340 --> 00:03:41,750
+What will be done with the Orcs?
+
+47
+00:03:44,280 --> 00:03:47,070
+You have said you will not charge them with any crimes.
+
+48
+00:03:47,070 --> 00:03:50,830
+Does that mean you intend to accept all of their survivors?
+
+49
+00:03:53,600 --> 00:03:57,670
+Even with their numbers down, there are still 150,000 of them.
+
+50
+00:03:58,120 --> 00:03:59,410
+That being the case...
+
+51
+00:04:00,320 --> 00:04:03,181
+It may sound like some kind of dream,
+
+52
+00:04:03,181 --> 00:04:05,720
+but I'm thinking we can all work together.
+
+53
+00:04:06,100 --> 00:04:07,420
+Work together?
+
+54
+00:04:07,420 --> 00:04:08,600
+Meaning what, exactly?
+
+55
+00:04:11,000 --> 00:04:14,730
+The Lizardmen will share a clean water source and fish,
+
+56
+00:04:14,730 --> 00:04:16,750
+the Goblins will offer places to live,
+
+57
+00:04:16,750 --> 00:04:19,670
+and our town will give them processed goods.
+
+58
+00:04:20,040 --> 00:04:21,970
+And in return,
+
+59
+00:04:21,970 --> 00:04:24,550
+the Orcs will contribute labor.
+
+60
+00:04:26,080 --> 00:04:29,510
+All the races of the Great Forest of Jura will form an alliance
+
+61
+00:04:29,510 --> 00:04:31,820
+and build a mutually cooperative relationship.
+
+62
+00:04:31,820 --> 00:04:35,960
+It'd be really cool if we could create a nation where all races could coexist!
+
+63
+00:04:36,140 --> 00:04:41,760
+A-And you're saying we could also take part in this alliance?
+
+64
+00:04:42,080 --> 00:04:44,610
+Well, you have nowhere else to go, do you?
+
+65
+00:04:44,610 --> 00:04:47,010
+I have a place for you, so do some work.
+
+66
+00:04:47,500 --> 00:04:49,430
+I won't tolerate slackers.
+
+67
+00:04:52,500 --> 00:04:53,730
+Yes, sir!
+
+68
+00:04:53,730 --> 00:04:56,170
+Of course! Of course we will!
+
+69
+00:04:56,170 --> 00:04:58,730
+We will devote our lives to our work!
+
+70
+00:05:02,650 --> 00:05:05,490
+We would be honored to join forces with you.
+
+71
+00:05:05,940 --> 00:05:07,610
+Treyni-san, is that okay with you?
+
+72
+00:05:08,150 --> 00:05:09,700
+Certainly.
+
+73
+00:05:09,700 --> 00:05:14,620
+The Treants under my protection will share the bounty of the forest, as well.
+
+74
+00:05:15,120 --> 00:05:19,130
+I believe we can alleviate the Orcs' hunger for some time.
+
+75
+00:05:21,530 --> 00:05:22,390
+Then...
+
+76
+00:05:23,630 --> 00:05:25,360
+As a caretaker of the forest,
+
+77
+00:05:25,360 --> 00:05:28,140
+I, Treyni, hereby pledge
+
+78
+00:05:28,530 --> 00:05:32,720
+to acknowledge Great Rimuru as the new chancellor of the Great Forest of Jura...
+
+79
+00:05:32,930 --> 00:05:34,140
+Chancellor?!
+
+80
+00:05:34,400 --> 00:05:36,660
+...and declare the Jura Forest Alliance
+
+81
+00:05:37,080 --> 00:05:40,370
+to be established under Chancellor Rimuru.
+
+82
+00:05:41,830 --> 00:05:43,400
+Uh... Er... Buh...
+
+83
+00:05:46,310 --> 00:05:49,610
+S-Somehow I just ended up the chancellor of the alliance...
+
+84
+00:05:49,610 --> 00:05:51,740
+Not Treyni-san?!
+
+85
+00:05:52,260 --> 00:05:56,040
+And declining really doesn't seem like an option right now...
+
+86
+00:05:56,040 --> 00:05:59,120
+F-Fine, I will! I'll do it!
+
+87
+00:06:00,875 --> 00:06:04,110
+Okay, um... I guess that's how it's gonna be,
+
+88
+00:06:04,110 --> 00:06:05,920
+so I'm counting on all of you!
+
+89
+00:06:06,080 --> 00:06:07,080
+Yes, sir!
+
+90
+00:06:08,200 --> 00:06:11,610
+And thus, while I was left in an uncontrollable cold sweat,
+
+91
+00:06:11,610 --> 00:06:14,630
+the Jura Forest Alliance was established.
+
+92
+00:06:16,850 --> 00:06:18,080
+You need something?
+
+93
+00:06:19,380 --> 00:06:21,950
+Even in the name of survival of the fittest,
+
+94
+00:06:21,950 --> 00:06:25,190
+hate is not a thing that can be resolved so easily.
+
+95
+00:06:26,100 --> 00:06:29,160
+For what we did to your village...
+
+96
+00:06:33,520 --> 00:06:35,970
+I cannot apologize enough.
+
+97
+00:06:36,420 --> 00:06:39,620
+I realize this is a selfish request...
+
+98
+00:06:40,060 --> 00:06:45,000
+but please, take my head as penance and have mercy on the others!
+
+99
+00:06:50,890 --> 00:06:55,680
+After the battle, we told Great Rimuru that we wished to continue serving him,
+
+100
+00:06:56,300 --> 00:06:58,310
+and he gave us official titles.
+
+101
+00:06:59,180 --> 00:07:03,150
+I am a Samurai, bodyguard to Great Rimuru.
+
+102
+00:07:03,150 --> 00:07:04,570
+I'm also his secretary.
+
+103
+00:07:05,040 --> 00:07:08,820
+Hakurou is an Instructor, and Souei is a Spy.
+
+104
+00:07:09,410 --> 00:07:12,010
+Shuna and Kurobe, who remained in the village, have titles, as well.
+
+105
+00:07:12,700 --> 00:07:16,450
+And I received the title of Samurai General.
+
+106
+00:07:18,860 --> 00:07:20,920
+That puts me in charge of military affairs.
+
+107
+00:07:21,650 --> 00:07:23,770
+And now that I'm in this position,
+
+108
+00:07:23,770 --> 00:07:27,032
+I can't very well rob us of a capable fighter, now, can I?
+
+109
+00:07:33,330 --> 00:07:36,970
+I will show no mercy to any who do wrong to Great Rimuru,
+
+110
+00:07:37,300 --> 00:07:41,050
+but if you join the alliance and revere him as your chancellor, we are not enemies.
+
+111
+00:07:41,550 --> 00:07:43,480
+I wouldn't dream of doing him wrong!
+
+112
+00:07:43,760 --> 00:07:46,880
+He saved all of us.
+
+113
+00:07:46,880 --> 00:07:50,240
+I wish only to serve him. I could never bear him ill will!
+
+114
+00:07:50,420 --> 00:07:54,240
+Then we are fellow servants under the same master.
+
+115
+00:07:55,080 --> 00:07:57,200
+Do your best to be useful to Great Rimuru.
+
+116
+00:07:57,720 --> 00:07:59,910
+I'll accept that as your apology.
+
+117
+00:08:06,070 --> 00:08:08,570
+I swear on the name of my father King Geld.
+
+118
+00:08:11,310 --> 00:08:13,760
+Benimaru is such a gracious guy.
+
+119
+00:08:14,370 --> 00:08:16,050
+I should learn from him.
+
+120
+00:08:17,020 --> 00:08:19,010
+And I'll have to give that one a name,
+
+121
+00:08:19,340 --> 00:08:21,750
+as the new leader of the Orcs.
+
+122
+00:08:23,740 --> 00:08:28,122
+In hopes that you inherit the wishes of the Orc Disaster, Geld,
+
+123
+00:08:28,122 --> 00:08:29,530
+I grant you the name "Geld."
+
+124
+00:08:30,130 --> 00:08:31,250
+Yes, sir!
+
+125
+00:08:32,000 --> 00:08:34,390
+Lead the Orcs well.
+
+126
+00:08:34,390 --> 00:08:35,210
+Yes, sir.
+
+127
+00:08:41,280 --> 00:08:45,050
+The new Orc ruler, Geld, evolved into the Orc King.
+
+128
+00:08:46,680 --> 00:08:47,850
+After that...
+
+129
+00:08:48,760 --> 00:08:52,970
+I spent ten days naming all 150,000 Orcs.
+
+130
+00:08:55,070 --> 00:08:58,860
+It goes without saying that I went into sleep mode after that.
+
+131
+00:08:59,620 --> 00:09:04,250
+I also gave the name "Abiru" to the Lizardmen's chieftain.
+
+132
+00:09:05,800 --> 00:09:07,691
+His son, Gabiru,
+
+133
+00:09:07,691 --> 00:09:10,020
+was charged with the crime of treason.
+
+134
+00:09:10,670 --> 00:09:12,860
+I'm sure to receive the death penalty.
+
+135
+00:09:13,330 --> 00:09:14,830
+That's as it should be.
+
+136
+00:09:14,830 --> 00:09:17,220
+It's the only way to set an example.
+
+137
+00:09:18,310 --> 00:09:22,040
+But... if there's one thing I regret...
+
+138
+00:09:24,120 --> 00:09:28,720
+I wish I had asked him why he saved me.
+
+139
+00:09:29,380 --> 00:09:32,500
+A worthless fool like me...
+
+140
+00:09:32,950 --> 00:09:34,410
+Raise your head.
+
+141
+00:09:36,570 --> 00:09:39,090
+I will now state the verdict.
+
+142
+00:09:39,290 --> 00:09:43,600
+I will, at least, accept the death penalty with grace.
+
+143
+00:09:44,290 --> 00:09:47,390
+Gabiru, you will be excommunicated and exiled.
+
+144
+00:09:47,390 --> 00:09:50,480
+You will never call yourself a Lizardman again.
+
+145
+00:09:51,980 --> 00:09:53,980
+Cast him out at once!
+
+146
+00:09:54,410 --> 00:09:56,520
+What... did he say?!
+
+147
+00:10:02,190 --> 00:10:03,540
+You forgot something.
+
+148
+00:10:04,630 --> 00:10:05,679
+Here.
+
+149
+00:10:25,230 --> 00:10:27,510
+Sir Gabiru!
+
+150
+00:10:28,100 --> 00:10:30,100
+-Hey! -Sir Gabiru!
+
+151
+00:10:30,870 --> 00:10:32,770
+We've been waiting for you, Sir Gabiru!
+
+152
+00:10:32,770 --> 00:10:34,670
+We were getting sick of waiting!
+
+153
+00:10:34,670 --> 00:10:36,230
+Time is money.
+
+154
+00:10:36,230 --> 00:10:39,450
+Wh-What are you guys doing?!
+
+155
+00:10:39,450 --> 00:10:41,370
+I've been excommunicated!
+
+156
+00:10:41,560 --> 00:10:44,670
+If you're excommunicated, we're all excommunicated!
+
+157
+00:10:44,670 --> 00:10:45,540
+Indeed.
+
+158
+00:10:46,640 --> 00:10:48,030
+You guys...
+
+159
+00:10:49,480 --> 00:10:50,290
+You're such fools.
+
+160
+00:10:54,370 --> 00:10:56,730
+Hopeless, every last one of you!
+
+161
+00:10:57,810 --> 00:11:01,090
+Very well. I'll look after all of you.
+
+162
+00:11:01,940 --> 00:11:03,990
+Just follow me!
+
+163
+00:11:03,990 --> 00:11:05,690
+That's our boy!
+
+164
+00:11:05,690 --> 00:11:06,760
+So cool!
+
+165
+00:11:06,760 --> 00:11:08,240
+Most definitely!
+
+166
+00:11:11,470 --> 00:11:13,890
+After you went to the trouble of settin' all that up,
+
+167
+00:11:13,890 --> 00:11:17,940
+I bet it's killin' you that a new Demon Lord wasn't born, huh?
+
+168
+00:11:18,450 --> 00:11:19,720
+Yes...
+
+169
+00:11:21,800 --> 00:11:25,180
+But I did get to see an interesting sight.
+
+170
+00:11:25,590 --> 00:11:28,950
+Now, what shall I do about that slime?
+
+171
+00:11:29,150 --> 00:11:31,400
+Well, good luck to ya.
+
+172
+00:11:31,400 --> 00:11:35,230
+If ya ever need a hand, I'll lend ya one for cheap,
+
+173
+00:11:35,230 --> 00:11:37,220
+Demon Lord Clayman.
+
+174
+00:11:43,700 --> 00:11:45,930
+Three months after the defeat of the Orc Lord,
+
+175
+00:11:46,500 --> 00:11:49,430
+the High Orcs that had evolved from the Orcs
+
+176
+00:11:49,430 --> 00:11:53,260
+were learning new skills in no time, under Kaijin's instruction,
+
+177
+00:11:53,260 --> 00:11:55,280
+and had become a dependable work force.
+
+178
+00:11:59,590 --> 00:12:01,570
+It's great that the houses have been built.
+
+179
+00:12:01,570 --> 00:12:03,600
+We've got clothing and tools, too.
+
+180
+00:12:03,600 --> 00:12:04,740
+And...
+
+181
+00:12:04,920 --> 00:12:06,530
+We laid an aqueduct, too!
+
+182
+00:12:06,530 --> 00:12:10,120
+We even have flushing toilets, and both water and sewage systems!
+
+183
+00:12:10,390 --> 00:12:11,920
+We're building roads, too.
+
+184
+00:12:11,920 --> 00:12:14,950
+The stuff I learned as a general contractor came in handy!
+
+185
+00:12:14,950 --> 00:12:18,170
+This'll be great for commerce with the Lizardmen and other regions.
+
+186
+00:12:18,560 --> 00:12:21,170
+The bath I asked for will be finished soon, too.
+
+187
+00:12:21,680 --> 00:12:23,180
+I can't wait!
+
+188
+00:12:23,640 --> 00:12:25,180
+Right, Ranga?
+
+189
+00:12:25,180 --> 00:12:29,680
+We should all work hard together to make this village an even greater place.
+
+190
+00:12:29,960 --> 00:12:33,270
+Yes, master! As you wish!
+
+191
+00:12:35,650 --> 00:12:37,050
+A place to live in peace...
+
+192
+00:12:37,550 --> 00:12:40,040
+At last, our town was complete!
+
+193
+00:12:41,670 --> 00:12:45,110
+But... things just couldn't be that easy.
+
+194
+00:12:46,710 --> 00:12:49,200
+Great Rimuru, we have an emergency.
+
+195
+00:12:49,410 --> 00:12:50,643
+Huh?
+
+196
+00:12:59,270 --> 00:13:03,200
+Several hundred pegasus-mounted knights are heading this way.
+
+197
+00:13:03,200 --> 00:13:04,070
+What?
+
+198
+00:13:14,120 --> 00:13:16,240
+Your Majesty, what news?
+
+199
+00:13:17,200 --> 00:13:21,220
+The Orc Lord has been defeated, and the war has ended.
+
+200
+00:13:22,370 --> 00:13:23,640
+What?!
+
+201
+00:13:24,260 --> 00:13:29,060
+Rather than rampaging, the 150,000 surviving Orcs have scattered.
+
+202
+00:13:29,060 --> 00:13:31,820
+On top of that, they've evolved into High Orcs.
+
+203
+00:13:31,820 --> 00:13:33,330
+That can't be...
+
+204
+00:13:35,090 --> 00:13:39,460
+With the participation of several superior majin, the war came to an end.
+
+205
+00:13:40,020 --> 00:13:44,090
+Is it safe to assume the majin are all serving that slime?
+
+206
+00:13:45,120 --> 00:13:49,330
+One who rules over majin and causes monsters to evolve...
+
+207
+00:13:49,750 --> 00:13:54,890
+If this matter is not handled with care, this nation may fall.
+
+208
+00:13:59,570 --> 00:14:04,630
+I will see just who this slime is with my own eyes.
+
+209
+00:14:33,730 --> 00:14:35,090
+It can't be...
+
+210
+00:14:35,790 --> 00:14:37,270
+The Hero King of the Dwarves,
+
+211
+00:14:37,830 --> 00:14:39,450
+Gazel Dwargo...
+
+212
+00:14:40,740 --> 00:14:43,060
+Great Rimuru, what shall we do?
+
+213
+00:14:43,550 --> 00:14:46,080
+I'd rather avoid fighting if possible...
+
+214
+00:14:46,080 --> 00:14:49,150
+It's no problem. We can just knock them all away.
+
+215
+00:14:51,340 --> 00:14:54,570
+If it comes down to a fight, evacuate the townsfolk.
+
+216
+00:14:54,570 --> 00:14:56,790
+We'll buy time until then.
+
+217
+00:14:57,620 --> 00:14:58,390
+Right.
+
+218
+00:15:06,050 --> 00:15:07,880
+It is a pleasure to see you again.
+
+219
+00:15:09,510 --> 00:15:11,680
+It's been a long time, Kaijin.
+
+220
+00:15:11,880 --> 00:15:12,969
+Yes, Majesty!
+
+221
+00:15:15,970 --> 00:15:17,450
+You are the slime?
+
+222
+00:15:18,490 --> 00:15:20,250
+I'll introduce myself first.
+
+223
+00:15:20,250 --> 00:15:21,910
+My name is Rimuru.
+
+224
+00:15:21,910 --> 00:15:25,070
+I'm a slime, but I'd rather you didn't call me that.
+
+225
+00:15:25,550 --> 00:15:29,570
+I am the chancellor of the Jura Forest Alliance, after all.
+
+226
+00:15:30,750 --> 00:15:33,300
+This isn't really my true form,
+
+227
+00:15:33,300 --> 00:15:35,830
+but it's easier to talk to me this way, right?
+
+228
+00:15:36,350 --> 00:15:38,350
+So... why are you here?
+
+229
+00:15:38,350 --> 00:15:40,210
+I'll get right to the point.
+
+230
+00:15:40,680 --> 00:15:44,210
+Rimuru, I've come to see what you truly are.
+
+231
+00:15:45,010 --> 00:15:45,960
+What I truly—
+
+232
+00:15:46,790 --> 00:15:50,590
+I will expose your true nature with my sword!
+
+233
+00:15:52,370 --> 00:15:56,260
+Since you boasted of being the chancellor of this forest,
+
+234
+00:15:56,260 --> 00:15:59,600
+it seems I must teach you, exactly, where you stand!
+
+235
+00:15:59,790 --> 00:16:02,610
+If that sword is more than mere decoration,
+
+236
+00:16:03,470 --> 00:16:05,860
+you would do well to accept my proposal.
+
+237
+00:16:07,190 --> 00:16:08,940
+Your Majesty, are you...
+
+238
+00:16:10,150 --> 00:16:13,590
+An earnest battle is the quickest way to settle this, is it not?
+
+239
+00:16:14,420 --> 00:16:16,990
+All right, then. I accept.
+
+240
+00:16:17,440 --> 00:16:19,830
+I'll make you regret accusing me of boasting.
+
+241
+00:16:34,040 --> 00:16:38,600
+If you can defend against my entire chain of attacks, you win.
+
+242
+00:16:40,670 --> 00:16:41,900
+However...
+
+243
+00:16:41,900 --> 00:16:46,860
+I suggest you do not underestimate the sword skill of Master Swordsman Gazel Dwargo.
+
+244
+00:16:47,160 --> 00:16:48,230
+Fine.
+
+245
+00:16:52,280 --> 00:16:55,820
+Very well. I will serve as witness to this contest.
+
+246
+00:16:57,590 --> 00:16:59,830
+Is that... a Dryad?
+
+247
+00:17:02,630 --> 00:17:06,410
+I willingly apologize for accusing you of boasting.
+
+248
+00:17:06,410 --> 00:17:09,590
+I have a vague understanding of the circumstances now.
+
+249
+00:17:10,060 --> 00:17:11,035
+Then...
+
+250
+00:17:11,035 --> 00:17:14,760
+But that is a separate matter from judging your true nature.
+
+251
+00:17:15,070 --> 00:17:15,870
+Huh?
+
+252
+00:17:17,420 --> 00:17:21,770
+Now that we have a witness, all that remains is to cross swords!
+
+253
+00:17:22,400 --> 00:17:24,310
+Yeah, I guess so.
+
+254
+00:17:24,310 --> 00:17:28,560
+I'll win this in no time and make you explain what's going on here.
+
+255
+00:17:30,170 --> 00:17:32,820
+If you manage to defeat me, you will have your answer.
+
+256
+00:17:34,580 --> 00:17:35,320
+Begin!
+
+257
+00:17:46,400 --> 00:17:49,960
+Is that all the strength you have, Rimuru?
+
+258
+00:17:50,220 --> 00:17:53,400
+Quiet! I just haven't started taking this seriously yet.
+
+259
+00:17:53,400 --> 00:17:54,581
+Don't rush me.
+
+260
+00:18:02,770 --> 00:18:04,630
+He's strong, all right...
+
+261
+00:18:04,630 --> 00:18:07,600
+But I can't just lose this.
+
+262
+00:18:11,320 --> 00:18:12,770
+That stance...
+
+263
+00:18:13,090 --> 00:18:14,610
+Here I come, Rimuru!
+
+264
+00:18:15,020 --> 00:18:16,950
+Haze: Thunder of Heaven and Earth!
+
+265
+00:18:21,200 --> 00:18:23,160
+The next strike is coming... from above!
+
+266
+00:18:38,370 --> 00:18:40,550
+You managed to stop my strike!
+
+267
+00:18:42,150 --> 00:18:43,180
+Enough.
+
+268
+00:18:43,610 --> 00:18:46,100
+The winner is Rimuru Tempest.
+
+269
+00:18:49,990 --> 00:18:52,400
+I understand now after crossing swords with you.
+
+270
+00:18:52,400 --> 00:18:54,860
+You are not an evil being.
+
+271
+00:18:56,090 --> 00:18:57,860
+What the hell?
+
+272
+00:18:58,230 --> 00:19:03,050
+I am impressed that you saw through my Haze: Thunder of Heaven and Earth.
+
+273
+00:19:03,760 --> 00:19:05,870
+Well done, Rimuru.
+
+274
+00:19:06,050 --> 00:19:08,060
+Oh, that was just a coincidence.
+
+275
+00:19:08,060 --> 00:19:12,100
+My master used that move, so I dealt with it a lot in training.
+
+276
+00:19:12,100 --> 00:19:13,935
+That's all, really.
+
+277
+00:19:13,935 --> 00:19:17,920
+What? Could it be your master was...
+
+278
+00:19:21,270 --> 00:19:23,890
+Excellent work, Great Rimuru.
+
+279
+00:19:25,210 --> 00:19:26,640
+The Savant!
+
+280
+00:19:27,160 --> 00:19:31,770
+You no longer look like the little boy I found lost in the forest.
+
+281
+00:19:32,020 --> 00:19:34,290
+Ah... Forgive me, Dwarf King.
+
+282
+00:19:34,290 --> 00:19:38,930
+I am overjoyed to see that you have surpassed me with the sword.
+
+283
+00:19:38,930 --> 00:19:41,780
+What an honor to hear you say that.
+
+284
+00:19:42,110 --> 00:19:44,490
+Hakurou was his master, huh?
+
+285
+00:19:44,490 --> 00:19:48,660
+You really never can tell how things might be connected in this world.
+
+286
+00:19:53,630 --> 00:19:55,690
+-Great Rimuru really is amazing, huh? -Truly the best.
+
+287
+00:19:55,690 --> 00:19:57,030
+I see.
+
+288
+00:19:57,030 --> 00:20:01,170
+You were investigating the odd assembly of monsters that defeated the Orc Lord.
+
+289
+00:20:01,610 --> 00:20:05,930
+Yes, to determine whether they were friend or foe.
+
+290
+00:20:07,810 --> 00:20:10,430
+Rimuru, there's something I must ask you.
+
+291
+00:20:10,960 --> 00:20:11,710
+Sure.
+
+292
+00:20:12,960 --> 00:20:15,690
+Have you any interest in entering a treaty with me?
+
+293
+00:20:17,960 --> 00:20:22,420
+If you were to gain control of everything in this vast forest,
+
+294
+00:20:22,840 --> 00:20:27,200
+you could obtain wealth and power surpassing my own nation.
+
+295
+00:20:27,450 --> 00:20:31,830
+It would serve you well to have another nation supporting you at such a time.
+
+296
+00:20:32,520 --> 00:20:34,660
+That would be fantastic, but...
+
+297
+00:20:37,570 --> 00:20:38,920
+Are you sure?
+
+298
+00:20:38,920 --> 00:20:44,970
+That would be the same as acknowledging our gathering of monsters as its own nation.
+
+299
+00:20:45,360 --> 00:20:46,460
+Of course.
+
+300
+00:20:46,870 --> 00:20:50,770
+And this deal would benefit us, as well.
+
+301
+00:20:50,770 --> 00:20:53,190
+Both sides stand to profit.
+
+302
+00:20:55,240 --> 00:20:57,420
+I guess I have no reason to refuse.
+
+303
+00:20:58,710 --> 00:21:00,360
+I gladly accept.
+
+304
+00:21:00,620 --> 00:21:01,780
+Good.
+
+305
+00:21:01,780 --> 00:21:05,360
+And what is the name of your nation?
+
+306
+00:21:07,340 --> 00:21:09,330
+Our nation's name?
+
+307
+00:21:09,330 --> 00:21:10,870
+I didn't think of that!
+
+308
+00:21:11,610 --> 00:21:17,410
+Um... If I take one from "Forest of Jura" and "Rimuru Tempest"...
+
+309
+00:21:18,420 --> 00:21:20,630
+The Jura Tempest Federation!
+
+310
+00:21:20,940 --> 00:21:23,380
+The Jura Tempest Federation?
+
+311
+00:21:24,470 --> 00:21:26,270
+That's our Great Rimuru!
+
+312
+00:21:26,270 --> 00:21:29,920
+Then our nation shall be called the Jura Tempest Federation,
+
+313
+00:21:29,920 --> 00:21:32,680
+and this town shall be called Rimuru!
+
+314
+00:21:32,910 --> 00:21:33,640
+Huh?!
+
+315
+00:21:33,930 --> 00:21:36,070
+Capital City Rimuru!
+
+316
+00:21:36,070 --> 00:21:37,980
+Hang on, that's kinda embarrassi—
+
+317
+00:21:37,980 --> 00:21:39,590
+Capital City Rimuru!
+
+318
+00:21:39,590 --> 00:21:41,230
+No other name would do!
+
+319
+00:21:41,230 --> 00:21:44,490
+I agree. It's a perfect name for our town.
+
+320
+00:21:44,490 --> 00:21:46,350
+H-Huh?
+
+321
+00:21:46,350 --> 00:21:48,110
+It would seem that this is settled.
+
+322
+00:21:50,250 --> 00:21:51,070
+Yeah.
+
+323
+00:21:53,580 --> 00:21:57,460
+On this day, the names "the Jura Tempest Federation" and "Capital City Rimuru"
+
+324
+00:21:57,460 --> 00:22:02,250
+were engraved in history for the first time.
+
+325
+00:22:05,513 --> 00:22:12,394
+I have to believe in me that you believe in
+
+326
+00:22:12,394 --> 00:22:20,858
+A story just started, carrying a name
+
+327
+00:22:22,326 --> 00:22:29,050
+Whether it's a concidence or a fate, who cares?
+
+328
+00:22:29,050 --> 00:22:34,787
+Just pick one thing in here
+
+329
+00:22:35,730 --> 00:22:42,242
+Just from one chance, the future would change
+
+330
+00:22:42,242 --> 00:22:48,737
+Along with the sky, the wind, and the land
+
+331
+00:22:48,737 --> 00:22:55,762
+It's all because you keep believing in that possiblity
+
+332
+00:22:55,762 --> 00:23:02,315
+That I can also keep believing. With my power...
+
+333
+00:23:02,315 --> 00:23:05,643
+In the depths of the world that we must protect,
+
+334
+00:23:05,643 --> 00:23:08,997
+rise up as many times as it take
+
+335
+00:23:08,997 --> 00:23:15,064
+If I can't hold it with both hands, I'll lend it to you
+
+336
+00:23:15,674 --> 00:23:22,368
+Even if you got shaken, face foward for the smile you wish to protect
+
+337
+00:23:22,368 --> 00:23:27,294
+There's a scenary I want to show you,
+
+338
+00:23:27,294 --> 00:23:29,815
+let's go togehter
+
+339
+00:23:35,820 --> 00:23:39,260
+Next time, "Demon Lord Milim Attacks."
+
