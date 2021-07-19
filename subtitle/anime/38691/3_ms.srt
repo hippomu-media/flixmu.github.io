@@ -1,0 +1,1479 @@
+1
+00: 00: 07,230 -> 00: 00: 12,300
+Pelajar sekolah menengah primata terkuat, Shishio Tsukasa.
+
+2
+00: 00: 12,990 -> 00: 00: 17,330
+Anda berdua tidak akan berada dalam bahaya lagi.
+
+3
+00: 00: 17,990 -> 00: 00: 21,270
+Mulai sekarang, saya akan berperang.
+
+4
+00: 00: 22,750 -> 00: 00: 26,630
+Lelaki Shishio ini terlalu kuat.
+
+5
+00: 00: 29,350 -> 00: 00: 33,880
+Senku, adakah anda berhasrat untuk mengembalikan semua orang, termasuk orang dewasa?
+
+6
+00: 00: 33,880 -> 00: 00: 35,630
+hati siapa yang tercemar?
+
+7
+00: 00: 36,290 -> 00: 00: 38,380
+Ini adalah dunia batu.
+
+8
+00: 00: 38,890 -> 00: 00: 41,530
+Syurga yang tidak ternoda.
+
+9
+00: 00: 42,070 -> 00: 00: 45,370
+Kami hanya akan menghidupkan belia yang berhati murni
+
+10
+00: 00: 45,370 -> 00: 00: 49,570
+dan hidup di dunia semula jadi yang tidak dimiliki oleh orang lain.
+
+11
+00: 00: 50,290 -> 00: 00: 52,940
+Ini adalah peluang untuk menyucikan manusia.
+
+12
+00: 00: 54,030 -> 00: 00: 57,280
+Tidakkah anda setuju, Senku?
+
+13
+00: 01: 02,380 -> 00: 01: 04,790
+Lelaki ini benar-benar berita buruk.
+
+14
+00: 01: 05,430 -> 00: 01: 09,580
+Sekali lagi, jika kita tidak membangunkannya, kita akan dibunuh oleh singa.
+
+15
+00: 01: 09,580 -> 00: 01: 11,880
+Saya rasa kita tidak mempunyai pilihan.
+
+16
+00: 01: 11,880 -> 00: 01: 14,740
+Dia juga mahu menolong orang muda,
+
+17
+00: 01: 14,740 -> 00: 01: 18,720
+jadi saya yakin dia akan terus berjaga-jaga sehingga dia mengetahui resipi cecair kebangkitan.
+
+18
+00: 01: 18,720 -> 00: 01: 22,400
+Walaupun ia membunuh saya, saya harus berdiam diri mengenai cecair ajaib di dalam gua.
+
+19
+00: 01: 22,400 -> 00: 01: 23,680
+Hey!
+
+20
+00: 01: 23,680 -> 00: 01: 27,060
+Berita baik, Senku, Tsukasa!
+
+21
+00: 01: 27,290 -> 00: 01: 30,400
+Kami mempunyai periuk yang penuh dengan cecair ajaib dari gua!
+
+22
+00: 01: 27,290 -> 00: 01: 30,400
+Untuk Yuzuriha
+
+23
+00: 01: 30,400 -> 00: 01: 34,110
+Kita akhirnya dapat menghidupkan kembali Yuzuriha!
+
+24
+00: 01: 38,530 -> 00: 01: 40,990
+Apakah "cecair ajaib" ini yang anda bicarakan?
+
+25
+00: 01: 46,750 -> 00: 01: 50,100
+Jangan buang masa berdiri di sini menerangkannya.
+
+26
+00: 01: 50,100 -> 00: 01: 52,850
+Ia akan menjadi sepuluh bilion kali lebih pantas untuk ditunjukkan.
+
+27
+00: 01: 53,580 -> 00: 01: 56,340
+Anda harus berbesar hati melihat ini.
+
+28
+00: 01: 56,970 -> 00: 02: 00,290
+Sudah tiba masanya untuk menikmati pertunjukan kebangkitan umat manusia.
+
+29
+00: 02: 02,060 -> 00: 02: 04,190
+Selamat Pagi Dunia
+
+30
+00: 02: 04,190 -> 00: 02: 07,400
+Selamat Pagi Dunia!
+
+31
+00: 02: 05,250 -> 00: 02: 07,400
+Selamat Pagi Dunia!
+
+32
+00: 02: 18,270 -> 00: 02: 20,960
+Sejauh mana saya berjalan?
+
+33
+00: 02: 20,960 -> 00: 02: 24,040
+Hanya sakit di kaki saya
+
+34
+00: 02: 24,810 -> 00: 02: 28,380
+Memberi saya rasa jarak
+
+35
+00: 02: 28,380 -> 00: 02: 35,000
+Berharap untuk pemandangan yang indah di penghujung malam yang panjang
+
+36
+00: 02: 35,000 -> 00: 02: 38,220
+Apa yang membuat saya terus berjalan hari ini
+
+37
+00: 02: 39,030 -> 00: 02: 44,090
+Gunung para dewa, istana hijau
+
+38
+00: 02: 44,090 -> 00: 02: 49,110
+Kedalaman gua, tepi langit biru yang dalam
+
+39
+00: 02: 49,110 -> 00: 02: 54,960
+Saya akan menempuh jarak penuh, tidak ada had
+
+40
+00: 02: 54,960 -> 00: 02: 58,290
+Hingga akhir dunia
+
+41
+00: 03: 00,080 -> 00: 03: 01,840
+Selamat Pagi Dunia
+
+42
+00: 03: 01,840 -> 00: 03: 04,920
+Selamat Pagi Dunia!
+
+43
+00: 03: 03,120 -> 00: 03: 04,920
+Selamat Pagi Dunia!
+
+44
+00: 03: 04,920 -> 00: 03: 09,010
+Keluarkan mustahil kegelapan
+
+45
+00: 03: 09,010 -> 00: 03: 14,360
+Pengembaraan yang mengubah mitologi menjadi kehidupan seharian
+
+46
+00: 03: 15,000 -> 00: 03: 23,770
+Dalam perjalanan yang melelahkan ini, mengubah setiap batu
+
+47
+00: 03: 24,250 -> 00: 03: 28,690
+Kami akan mengembangkan dunia kita
+
+48
+00: 03: 32,290 -> 00: 03: 37,020
+Senjata Sains
+
+49
+00: 03: 37,890 -> 00: 03: 39,670
+Baiklah, Yuzuriha.
+
+50
+00: 03: 39,670 -> 00: 03: 43,030
+Kami akhirnya akan menyelamatkan anda, kali ini!
+
+51
+00: 03: 45,870 -> 00: 03: 46,910
+Apa-apaan?
+
+52
+00: 03: 46,910 -> 00: 03: 50,710
+Cukup kekurangan cecair pembangun untuk satu orang.
+
+53
+00: 03: 50,710 -> 00: 03: 52,870
+Apa?! Adakah saya mengeluarkannya terlalu cepat ?!
+
+54
+00: 03: 52,870 -> 00: 03: 57,210
+Tsukasa dan saya akan bermain permainan kata atau sesuatu semasa anda mendapat lebih banyak.
+
+55
+00: 03: 57,210 -> 00: 03: 59,880
+Oleh itu, buatlah cepat, bodoh besar.
+
+56
+00: 03: 59,880 -> 00: 04: 02,230
+Terima kasih! Saya akan segera kembali!
+
+57
+00: 04: 02,230 -> 00: 04: 04,540
+Saya akan berjalan dengan pantas!
+
+58
+00: 04: 08,980 -> 00: 04: 12,050
+Kemudian, saya akan pergi, kerana saya adalah yang terpantas.
+
+59
+00: 04: 12,660 -> 00: 04: 16,230
+Oleh itu, anda akan memberitahu saya di mana cecair ajaib ini?
+
+60
+00: 04: 17,690 -> 00: 04: 20,530
+Sepatutnya saya tahu dia akan menangkapnya.
+
+61
+00: 04: 20,910 -> 00: 04: 24,090
+Sekiranya dia tahu di mana sumber cecair kebangkitan itu,
+
+62
+00: 04: 24,090 -> 00: 04: 27,740
+ada kemungkinan sepuluh bilion peratus dia akan dapat berhenti
+
+63
+00: 04: 27,740 -> 00: 04: 30,540
+Operasi Saya: Mari Selamatkan Setiap Manusia Terakhir.
+
+64
+00: 04: 37,040 -> 00: 04: 38,590
+Adakah Tsukasa pergi?
+
+65
+00: 04: 38,990 -> 00: 04: 41,280
+Ya, dalam sekelip mata.
+
+66
+00: 04: 41,280 -> 00: 04: 42,420
+Dia secepat anda--
+
+67
+00: 04: 43,760 -> 00: 04: 47,680
+Mari buat cecair pemulihan dan bawa kembali Yuzuriha,
+
+68
+00: 04: 48,000 -> 00: 04: 50,260
+sementara Tsukasa tidak ada di sini.
+
+69
+00: 04: 56,170 -> 00: 04: 57,690
+Kelawar ...
+
+70
+00: 04: 59,750 -> 00: 05: 02,190
+Menyentuhnya menjadikan jari saya kuning.
+
+71
+00: 05: 03,970 -> 00: 05: 06,570
+Jadi "cecair ajaib" adalah asid nitrik.
+
+72
+00: 05: 19,390 -> 00: 05: 20,930
+Apa yang sedang berlaku?
+
+73
+00: 05: 20,380 -> 00: 05: 23,380
+Makmal
+
+74
+00: 05: 20,930 -> 00: 05: 23,380
+Anda baru sahaja mengatakan bahawa tidak ada cukup cecair pembangun!
+
+75
+00: 05: 23,690 -> 00: 05: 27,150
+Adakah anda benar-benar fikir saya telah membuat periuk dengan ukuran yang salah?
+
+76
+00: 05: 27,150 -> 00: 05: 28,350
+Mata yang baik!
+
+77
+00: 05: 28,350 -> 00: 05: 30,850
+Lalu mengapa anda menghantar Tsukasa selepas itu?
+
+78
+00: 05: 31,250 -> 00: 05: 32,890
+Ia adalah umpan bermata dua.
+
+79
+00: 05: 32,890 -> 00: 05: 35,050
+Saya ingin menyingkirkannya sebelum menghidupkan kembali Yuzuriha,
+
+80
+00: 05: 35,050 -> 00: 05: 37,690
+walaupun itu bermaksud mendedahkan di mana gua itu berada.
+
+81
+00: 05: 37,690 -> 00: 05: 40,150
+Mengapa anda mahu menyingkirkan Tsukasa?
+
+82
+00: 05: 40,150 -> 00: 05: 41,610
+Dia lelaki yang baik!
+
+83
+00: 05: 41,610 -> 00: 05: 44,440
+Itulah sebabnya dia terlalu banyak menangani.
+
+84
+00: 05: 44,830 -> 00: 05: 52,080
+Saya bahkan tidak berminat dengan penglihatannya untuk "dunia perkasa".
+
+85
+00: 05: 53,860 -> 00: 05: 56,960
+Pada pendapat saya, permainan membina tamadun lebih menarik.
+
+86
+00: 05: 59,330 -> 00: 06: 00,610
+Baik.
+
+87
+00: 06: 00,610 -> 00: 06: 02,020
+Anda tidak perlu menjelaskan.
+
+88
+00: 06: 02,020 -> 00: 06: 05,090
+Senku, saya percaya apa yang anda katakan.
+
+89
+00: 06: 05,730 -> 00: 06: 08,530
+Sesuatu berlaku semasa saya pergi, bukan?
+
+90
+00: 06: 09,630 -> 00: 06: 10,590
+Ya.
+
+91
+00: 06: 11,510 -> 00: 06: 14,350
+Shishio Tsukasa adalah lelaki yang baik ...
+
+92
+00: 06: 17,890 -> 00: 06: 19,400
+dan pembunuh.
+
+93
+00: 06: 24,130 -> 00: 06: 25,440
+Yuzuriha ...
+
+94
+00: 06: 25,440 -> 00: 06: 27,110
+Maaf membuat anda menunggu.
+
+95
+00: 06: 27,470 -> 00: 06: 29,950
+Saya saya ...
+
+96
+00: 06: 30,950 -> 00: 06: 32,030
+SAYA ...
+
+97
+00: 06: 32,870 -> 00: 06: 35,970
+Saya memberitahu anda bahawa kita terburu-buru, bodoh!
+
+98
+00: 06: 36,890 -> 00: 06: 38,250
+Anda hanya membuangnya ke seluruh tubuhnya!
+
+99
+00: 06: 38,250 -> 00: 06: 40,120
+Tidak bolehkah anda menjadi lebih sedikit, seperti ... anda tahu!
+
+100
+00: 06: 43,750 -> 00: 06: 46,150
+Tunggu, tidak ada yang berlaku! Adakah ini baik-baik saja ?!
+
+101
+00: 06: 46,150 -> 00: 06: 48,090
+Tidak, tidak mengapa, Yuzuriha!
+
+102
+00: 06: 48,090 -> 00: 06: 50,050
+Tetapi adakah ini baik-baik saja ?!
+
+103
+00: 06: 50,440 -> 00: 06: 53,030
+Ia memerlukan masa untuk reaksi berlaku.
+
+104
+00: 06: 53,030 -> 00: 06: 55,260
+Ini adalah sejenis cryostasis.
+
+105
+00: 06: 55,760 -> 00: 07: 00,040
+Ia seperti pelindung yang terbuat dari jejak logam di dalam badan.
+
+106
+00: 07: 00,040 -> 00: 07: 02,580
+Beberapa mekanisme misteri menyebabkan unsur-unsur
+
+107
+00: 07: 02,580 -> 00: 07: 04,710
+untuk beralih fasa, mengekalkan keadaan membatu.
+
+108
+00: 07: 04,710 -> 00: 07: 06,230
+Ia rumit!
+
+109
+00: 07: 06,230 -> 00: 07: 08,010
+Sungguh rumit!
+
+110
+00: 07: 08.010 -> 00: 07: 12,740
+Itu hanya hipotesis, berdasarkan satu tahun percubaan yang sukar.
+
+111
+00: 07: 12,740 -> 00: 07: 18,580
+Maksudnya, jika satu bahagian pun menjadi nital di atasnya dan pecah ...
+
+112
+00: 07: 19,170 -> 00: 07: 23,080
+ia mewujudkan kesan lata yang merebak ke seluruh badan.
+
+113
+00: 07: 23,490 -> 00: 07: 25,920
+Dan pembuahan dibatalkan.
+
+114
+00: 07: 27,190 -> 00: 07: 31,020
+Dengarkan saya, Yuzuriha. Sejak lima tahun kebelakangan ini ...
+
+115
+00: 07: 31,020 -> 00: 07: 32,720
+Saya akan memberitahu Yuzuriha.
+
+116
+00: 07: 32,720 -> 00: 07: 34,970
+Saya akan bertahan, walaupun membunuh saya!
+
+117
+00: 07: 34,970 -> 00: 07: 37,720
+Kerana anda, saya dapat hidup selama ini.
+
+118
+00: 07: 37,720 -> 00: 07: 41,470
+Maaf saya tidak dapat melindungi anda.
+
+119
+00: 07: 47,370 -> 00: 07: 50,860
+Saya sayang awak ... selama beratus-ratus tahun ...
+
+120
+00: 07: 52.170 -> 00: 07: 53.950
+beribu-ribu tahun ...
+
+121
+00: 08: 07,630 -> 00: 08: 10,380
+Yuzuriha, boleh awak dengar? Yuzuriha!
+
+122
+00: 08: 12,950 -> 00: 08: 14,760
+Taiju-kun?
+
+123
+00: 08: 16,650 -> 00: 08: 20,560
+Maafkan saya. Saya membuat anda menunggu 3,700 tahun ...
+
+124
+00: 08: 20,560 -> 00: 08: 21,540
+Maafkan saya!
+
+125
+00: 08: 23,690 -> 00: 08: 27,770
+Saya tidak tahu apa yang berlaku. Saya baru bangun.
+
+126
+00: 08: 27,770 -> 00: 08: 32,510
+Tapi, ya ... saya rasa saya tahu apa yang berlaku.
+
+127
+00: 08: 32,510 -> 00: 08: 36,110
+Anda menyelamatkan saya, bukan?
+
+128
+00: 08: 36,810 -> 00: 08: 39,030
+Wow terima kasih.
+
+129
+00: 08: 42,900 -> 00: 08: 44,060
+Itu bukan saya.
+
+130
+00: 08: 44,900 -> 00: 08: 47,170
+Itu semua terima kasih kepada Senku.
+
+131
+00: 08: 47,170 -> 00: 08: 50,250
+Senku menghabiskan satu tahun bekerja untuk mengeringkan cecair.
+
+132
+00: 08: 51,110 -> 00: 08: 54,420
+Maaf untuk masuk ke sembang perjumpaan anda,
+
+133
+00: 08: 54,420 -> 00: 08: 57,180
+tetapi tentukan sebelum Tsukasa kembali.
+
+134
+00: 08: 57,830 -> 00: 08: 59,890
+Kami hanya mempunyai dua pilihan.
+
+135
+00: 08: 59,890 -> 00: 09: 01,060
+Pilih satu.
+
+136
+00: 09: 01,530 -> 00: 09: 04,270
+Rancangan A: Taiju dan Yuzuriha,
+
+137
+00: 09: 04,270 -> 00: 09: 08.060
+Anda berdua melarikan diri sekarang, dan tinggal di tempat yang jauh.
+
+138
+00: 09: 08,400 -> 00: 09: 13,030
+Rancangan B: kita berjuang bersama untuk menghentikan pembunuhan Tsukasa,
+
+139
+00: 09: 13,340 -> 00: 09: 15,780
+gunakan senjata peradaban.
+
+140
+00: 09: 15,780 -> 00: 09: 16,860
+Jawapannya jelas!
+
+141
+00: 09: 17,320 -> 00: 09: 19.510
+Kami akan berjuang di sisi anda!
+
+142
+00: 09: 19.510 -> 00: 09: 21,870
+Jangan memandang rendah kita, Senku!
+
+143
+00: 09: 22,210 -> 00: 09: 26,150
+Ya! Saya tidak tahu apa yang berlaku, tetapi saya juga akan membantu!
+
+144
+00: 09: 26,150 -> 00: 09: 28,930
+Saya tidak berusaha untuk menjadi baik atau apa-apa.
+
+145
+00: 09: 28,930 -> 00: 09: 32,000
+Nampaknya logik untuk memberi peluang kepada anda berdua untuk melarikan diri.
+
+146
+00: 09: 32,000 -> 00: 09: 36,750
+Sekiranya Tsukasa benar-benar membunuh orang, saya akan -
+
+147
+00: 09: 35,780 -> 00: 09: 37,530
+Menyebutnya "membunuh orang"
+
+148
+00: 09: 38,040 -> 00: 09: 40,930
+sebenarnya masalah perspektif.
+
+149
+00: 09: 42,620 -> 00: 09: 46,640
+Saya membasmi mereka ... untuk kepentingan dunia baru.
+
+150
+00: 09: 54,770 -> 00: 09: 59,280
+Dia bahkan tidak berusaha menyembunyikan pembunuhannya dari Taiju atau Yuzuriha.
+
+151
+00: 09: 59,860 -> 00: 10: 02,530
+Dengan kata lain, sesiapa yang menghalangnya ...
+
+152
+00: 10: 10,850 -> 00: 10: 14,760
+Senku, jika keadaan bertambah buruk, jaga Yuzuriha untukku.
+
+153
+00: 10: 14,760 -> 00: 10: 17,090
+Saya akan menghentikan Tsukasa!
+
+154
+00: 10: 18,590 -> 00: 10: 20,220
+Kamu bodoh!
+
+155
+00: 10: 21,450 -> 00: 10: 24,170
+Lelaki itu membunuh singa dengan tangan kosong.
+
+156
+00: 10: 24,170 -> 00: 10: 26,820
+Anda naik, sepuluh bilion peratus!
+
+157
+00: 10: 27,780 -> 00: 10: 31,470
+Anda memaksa saya menggunakan senjata yang saya rahsiakan!
+
+158
+00: 10: 35,300 -> 00: 10: 39,390
+Saya mesti menembak tepat di antara mereka dan menghentikannya!
+
+159
+00: 10: 52,900 -> 00: 10: 56,800
+Anda adalah orang pertama yang berjaya terus berdiri setelah menerima sepakan saya.
+
+160
+00: 10: 57,160 -> 00: 11: 00,050
+Ya ... Dan lebih menarik lagi, bukan kerana anda
+
+161
+00: 11: 00,050 -> 00: 11: 03,610
+gagal menyerang saya sebentar tadi, tetapi anda menentang.
+
+162
+00: 11: 03,610 -> 00: 11: 04,430
+Kenapa?
+
+163
+00: 11: 04,430 -> 00: 11: 06,620
+Saya tidak memukul orang!
+
+164
+00: 11: 06,620 -> 00: 11: 09,690
+Anda boleh memukul saya atau menendang semua yang anda mahukan,
+
+165
+00: 11: 09,690 -> 00: 11: 13,060
+tetapi berhenti memusnahkan patung-patung itu!
+
+166
+00: 11: 13,060 -> 00: 11: 15,820
+Membunuh orang adalah buruk!
+
+167
+00: 11: 19,100 -> 00: 11: 22,380
+Taiju, izinkan saya memperbaikinya.
+
+168
+00: 11: 22,380 -> 00: 11: 25,060
+Anda akan membiarkan saya terus memukul anda dan tidak pernah melawan,
+
+169
+00: 11: 25,060 -> 00: 11: 26,950
+oleh itu, jangan memusnahkan patung-patung itu.
+
+170
+00: 11: 27,830 -> 00: 11: 29,100
+Adakah itu benar?
+
+171
+00: 11: 29,100 -> 00: 11: 30,790
+Betul!
+
+172
+00: 11: 36,260 -> 00: 11: 38,170
+Saya tidak faham.
+
+173
+00: 11: 38,170 -> 00: 11: 40,170
+Tiada perjanjian dibuat di sini.
+
+174
+00: 11: 42,150 -> 00: 11: 44,100
+Sekiranya anda berkeras untuk menyekat saya ...
+
+175
+00: 11: 44,100 -> 00: 11: 48,180
+Saya tidak peduli berapa kali anda menyerang saya! Saya tidak akan berhenti berusaha menghentikan anda!
+
+176
+00: 11: 48,590 -> 00: 11: 50,930
+Gadis yang baru sahaja menghidupkan semula ...
+
+177
+00: 11: 50,930 -> 00: 11: 53,440
+Bagaimana jika saya katakan saya akan membunuhnya?
+
+178
+00: 11: 57,410 -> 00: 11: 58,650
+Saya faham.
+
+179
+00: 11: 58,650 -> 00: 12: 01,990
+Inilah sebabnya mengapa Senku-kun mengatakan mungkin lebih logik untuk kita melarikan diri.
+
+180
+00: 12: 07,740 -> 00: 12: 09,300
+Taiju-kun!
+
+181
+00: 12: 09,300 -> 00: 12: 11,020
+Sehingga menyakitkan dia.
+
+182
+00: 12: 11,020 -> 00: 12: 12,740
+Dia berdarah seperti orang gila.
+
+183
+00: 12: 12,740 -> 00: 12: 14,750
+Kita harus membiarkannya tidur selama beberapa hari.
+
+184
+00: 12: 15,260 -> 00: 12: 17,670
+Ya. Janganlah kita saling bertengkar.
+
+185
+00: 12: 18,250 -> 00: 12: 20,600
+Anda melindungi Yuzuriha,
+
+186
+00: 12: 20,600 -> 00: 12: 23,520
+daripada membimbangkan patung orang yang tidak anda kenali.
+
+187
+00: 12: 24,990 -> 00: 12: 27,370
+Dan saya akan melakukan apa yang perlu saya lakukan.
+
+188
+00: 12: 29,890 -> 00: 12: 31,450
+Saya tidak akan membiarkan anda menghalang saya.
+
+189
+00: 12: 36,480 -> 00: 12: 40,670
+Anak panah bergerak dengan kelajuan lebih dari 200 kilometer sejam.
+
+190
+00: 12: 40,670 -> 00: 12: 43,030
+Dia menyambarnya terus dari udara ...
+
+191
+00: 12: 44,330 -> 00: 12: 45,450
+Hei, bangun!
+
+192
+00: 12: 45,450 -> 00: 12: 47,320
+Ayuh! Ayuh, ayuh!
+
+193
+00: 12: 46,580 -> 00: 12: 48,910
+Anda mengatakan bahawa anda akan membiarkannya tidur selama beberapa hari!
+
+194
+00: 12: 47,890 -> 00: 12: 48,910
+Ayuh!
+
+195
+00: 12: 48,910 -> 00: 12: 54,370
+Anda tidak akan jatuh dengan mudah di hadapan Tsukasa, kan, bodoh?
+
+196
+00: 12: 54,720 -> 00: 12: 56,250
+Sudah tentu tidak!
+
+197
+00: 12: 57,180 -> 00: 12: 59,030
+adakah anda baik-baik saja sekarang?
+
+198
+00: 12: 59,030 -> 00: 13: 01,090
+Saya dibina untuk bertahan lama.
+
+199
+00: 13: 01,090 -> 00: 13: 03,400
+Saya mempunyai banyak tenaga yang tinggal!
+
+200
+00: 13: 03,400 -> 00: 13: 04,630
+Semoga berjaya.
+
+201
+00: 13: 05,460 -> 00: 13: 06,810
+Baik! Tsukasa!
+
+202
+00: 13: 06,810 -> 00: 13: 08,890
+Kita harus menghentikan pembunuhan!
+
+203
+00: 13: 09,320 -> 00: 13: 10,660
+Tunggu, bodoh besar.
+
+204
+00: 13: 10,660 -> 00: 13: 12,220
+Saya tidak berputus asa!
+
+205
+00: 13: 12,220 -> 00: 13: 14,690
+Bagaimana anda boleh berfikir begitu sederhana?
+
+206
+00: 13: 14,690 -> 00: 13: 17,340
+Kami baru tahu bahawa kami tidak dapat menghentikannya!
+
+207
+00: 13: 18,900 -> 00: 13: 20,380
+Masih ...
+
+208
+00: 13: 24,180 -> 00: 13: 28,280
+Hanya ada satu cara untuk menghentikan raksasa di dunia batu ini.
+
+209
+00: 13: 31,060 -> 00: 13: 35,090
+Memajukan tamadun dan menjadikannya senjata sains.
+
+210
+00: 13: 45,010 -> 00: 13: 47,260
+Pembaziran seperti itu ...
+
+211
+00: 13: 47,260 -> 00: 13: 48,930
+Apa yang awak buat, Senku?
+
+212
+00: 13: 48,930 -> 00: 13: 50,860
+Saya membuatnya kelihatan seperti
+
+213
+00: 13: 50,860 -> 00: 13: 55,020
+Tsukasa menakutkan kami dan membuat kami melarikan diri hanya dengan makanan kami.
+
+214
+00: 13: 55,020 -> 00: 13: 56,730
+Apa yang awak cakap?
+
+215
+00: 13: 56,730 -> 00: 13: 58,020
+Adakah kita melarikan diri?
+
+216
+00: 13: 58,020 -> 00: 14: 00,070
+Itu hanya perbuatan.
+
+217
+00: 14: 01,270 -> 00: 14: 05,990
+Sekiranya kita membina senjata sains sebelum diperhatikan, kita akan menang.
+
+218
+00: 14: 05,990 -> 00: 14: 08,900
+Sekiranya dia mendapat tahu terlebih dahulu, kita akan kalah.
+
+219
+00: 14: 08,900 -> 00: 14: 11,280
+Itulah jenis perlumbaan ini.
+
+220
+00: 14: 13,540 -> 00: 14: 16,300
+Kita akan mencari bahan untuk membuat senjata.
+
+221
+00: 14: 16,300 -> 00: 14: 17,540
+Destinasi kami adalah Hakone!
+
+222
+00: 14: 18,380 -> 00: 14: 22,380
+Hei, ini hanya pengembaraan sepanjang 80 kilometer, itu saja.
+
+223
+00: 14: 22,380 -> 00: 14: 24,380
+Dua maraton penuh, ya?
+
+224
+00: 14: 24,800 -> 00: 14: 26,420
+Lima jam mesti melakukannya.
+
+225
+00: 14: 26,420 -> 00: 14: 29,050
+Hanya untuk orang bodoh seperti anda.
+
+226
+00: 14: 32,140 -> 00: 14: 34,930
+Bunga sakura kelihatan berbeza.
+
+227
+00: 14: 34,930 -> 00: 14: 40,190
+Bunga sakura yang kita ketahui, Prunus yedoensis, tidak melakukan pendebungaan sendiri.
+
+228
+00: 14: 40,830 -> 00: 14: 42,000
+Yang bermaksud ...
+
+229
+00: 14: 42,000 -> 00: 14: 44,380
+Mereka mesti hilang begitu sahaja.
+
+230
+00: 14: 57,020 -> 00: 14: 59,660
+Astaga, pandangan apa!
+
+231
+00: 14: 59,660 -> 00: 15: 01,370
+Sempurna.
+
+232
+00: 15: 04,180 -> 00: 15: 05,930
+Apa itu, Senku?
+
+233
+00: 15: 05,930 -> 00: 15: 07,260
+Sextant.
+
+234
+00: 15: 07,260 -> 00: 15: 11,010
+Sudah 35.970 saat sejak matahari terbit hingga sekarang.
+
+235
+00: 15: 11,590 -> 00: 15: 14,430
+Adakah anda benar-benar mengatakannya seperti itu bukan masalah besar?
+
+236
+00: 15: 14,430 -> 00: 15: 18,380
+Senku menghitung ratusan bilion saat dia membatu.
+
+237
+00: 15: 18,380 -> 00: 15: 20,020
+Ini adalah sekeping kek untuknya.
+
+238
+00: 15: 20,380 -> 00: 15: 24,160
+Seorang sekstan seharusnya memberi tahu Anda lokasi Anda saat ini berdasarkan waktu,
+
+239
+00:15:24,160 --> 00:15:26,900
+tapi akurasinya seperti sampah, itu benar-benar lelucon.
+
+240
+00:15:29,180 --> 00:15:31,900
+Namun, sampah ini adalah satu-satunya GPS yang kami miliki.
+
+241
+00:15:31,900 --> 00:15:34,110
+Kita pasti berada di sekitar Kamakura, kurasa.
+
+242
+00:15:34,110 --> 00:15:36,280
+Saya berharap saya tahu garis bujur dan garis lintang kita.
+
+243
+00:15:37,890 --> 00:15:40,330
+Apakah ada bangunan yang bisa dijadikan landmark?
+
+244
+00:15:40,330 --> 00:15:42,040
+Apa pun logam berkarat.
+
+245
+00:15:42,040 --> 00:15:44,110
+Tidak ada yang tersisa.
+
+246
+00:15:46,270 --> 00:15:47,630
+Ada apa, Yuzuriha?
+
+247
+00:15:52,990 --> 00:15:54,300
+Bukankah itu...
+
+248
+00:16:00,790 --> 00:16:03,650
+Daerah itu benar-benar gundul karena suatu alasan.
+
+249
+00:16:06,140 --> 00:16:08,110
+Landmark Kamakura adalah...
+
+250
+00:16:12,660 --> 00:16:14,010
+Aku tahu di mana kita berada.
+
+251
+00:16:14,470 --> 00:16:17,580
+Kami berada di 35 derajat, 19 menit ke utara,
+
+252
+00:16:17,580 --> 00:16:20,790
+139 derajat, 32 menit timur.
+
+253
+00:16:33,740 --> 00:16:34,840
+Lihat! Lihat!
+
+254
+00:16:46,270 --> 00:16:47,690
+Ada apa, Yuzuriha?!
+
+255
+00:16:47,690 --> 00:16:49,830
+Siapa yang membuatmu menangis?
+
+256
+00:16:49,830 --> 00:16:50,860
+Apakah itu aku?!
+
+257
+00:16:50,860 --> 00:16:52,900
+Tidak, aku tidak menangis!
+
+258
+00:16:52,900 --> 00:16:56,200
+Maksudku, bukan karena aku tidak menangis...
+
+259
+00:16:56,200 --> 00:16:57,780
+Tapi tidak seperti itu, Taiju-kun.
+
+260
+00:17:00,150 --> 00:17:06,750
+Saya baru saja bangun hari ini, dan tidak ada yang terasa nyata sekarang.
+
+261
+00:17:07,170 --> 00:17:14,200
+Tetapi melihat Buddha Agung Kamakura membuat saya sadar bahwa kita benar-benar berada di Jepang.
+
+262
+00:17:14,200 --> 00:17:18,050
+Ini benar-benar telah ribuan tahun ...
+
+263
+00:17:18,900 --> 00:17:24,860
+Saya mulai memikirkan ibu dan ayah saya, dan semua orang...
+
+264
+00:17:32,300 --> 00:17:34,370
+Tidak ada yang perlu dikhawatirkan.
+
+265
+00:17:34,370 --> 00:17:38,970
+Kami akan mengalahkan Tsukasa dan menyelamatkan seluruh umat manusia.
+
+266
+00:17:38,970 --> 00:17:40,870
+Dia benar, Yuzuriha!
+
+267
+00:17:43,100 --> 00:17:45,810
+Dan Buddha Agung baru saja memberi tahu kami jalannya!
+
+268
+00:17:45,810 --> 00:17:49,460
+Dia berdiri selama ribuan tahun tanpa berantakan. Dia benar-benar dewa!
+
+269
+00:17:49,460 --> 00:17:51,540
+Tunggu, Buddha?
+
+270
+00:17:51,540 --> 00:17:54,730
+Yah, bagaimanapun, sesuatu seperti itu!
+
+271
+00:17:56,050 --> 00:17:59,290
+Ya, mereka membuat Buddha dari perunggu.
+
+272
+00:17:59,850 --> 00:18:02,370
+Secara ilmiah, itu tidak membusuk.
+
+273
+00:18:03,310 --> 00:18:04,610
+Lihat!
+
+274
+00:18:04,610 --> 00:18:07,750
+Sama sekali tidak ada dedaunan di sekitar Buddha!
+
+275
+00:18:07,750 --> 00:18:10,810
+Sepertinya dia membuatnya sehingga kita bisa menemukannya dengan mudah!
+
+276
+00:18:10,810 --> 00:18:14,070
+Ya, itu membocorkan ion tembaga seperti orang gila.
+
+277
+00:18:14,530 --> 00:18:17,530
+Itu hanya beracun bagi sebagian besar tanaman.
+
+278
+00:18:19,220 --> 00:18:20,980
+Itu dia! Perunggu!
+
+279
+00:18:20,980 --> 00:18:22,950
+Kita bisa menggunakannya untuk membuat cermin!
+
+280
+00:18:22,950 --> 00:18:25,440
+Saatnya meningkatkan sextant sampah saya!
+
+281
+00:18:25,440 --> 00:18:27,270
+Saya hanya akan membantu diri saya sendiri untuk beberapa ini!
+
+282
+00:18:27,270 --> 00:18:28,580
+Berhenti!
+
+283
+00:18:28,580 --> 00:18:30,670
+Anda bajingan penghujatan!
+
+284
+00:18:30,670 --> 00:18:32,340
+Ini adalah Buddha yang Agung!
+
+285
+00:18:31,040 --> 00:18:33,590
+Diam, bodoh! Pergi!
+
+286
+00:18:36,260 --> 00:18:38,760
+Tidak! Buddha Agung!
+
+287
+00:18:57,170 --> 00:18:58,780
+Apa sih yang kamu lakukan?
+
+288
+00:18:58,780 --> 00:19:01,050
+Aku harus melindungi kita dari binatang buas.
+
+289
+00:19:01,050 --> 00:19:03,200
+Tsukasa mungkin akan mengejar kita juga.
+
+290
+00:19:04,580 --> 00:19:07,890
+Kita akan kacau jika Tsukasa mengejar kita sekarang.
+
+291
+00:19:07,890 --> 00:19:10,080
+Tidak masuk akal untuk mengkhawatirkannya.
+
+292
+00:19:10,460 --> 00:19:12,040
+saya lihat.
+
+293
+00:19:12,040 --> 00:19:13,670
+Cepat dan tidur.
+
+294
+00:19:13,670 --> 00:19:16,260
+Beristirahat adalah bagian dari pekerjaanmu juga, bodoh.
+
+295
+00:19:20,590 --> 00:19:24,100
+Tubuh raksasa itu benar-benar berjuang untuk sekali, ya?
+
+296
+00:19:24,100 --> 00:19:25,590
+Aku hampir tidak baik-baik saja!
+
+297
+00:19:25,590 --> 00:19:26,990
+Aku hanya cukup tinggi, maksudku!
+
+298
+00:19:26,990 --> 00:19:29,430
+Aku masih punya banyak energi!
+
+299
+00:19:29,430 --> 00:19:31,190
+Tidak perlu khawatir!
+
+300
+00:19:31,550 --> 00:19:35,190
+Yuzuriha, jari kakimu masih membatu.
+
+301
+00:19:35,190 --> 00:19:40,200
+Ya, itu agak mengganggu, tapi kurasa tidak apa-apa.
+
+302
+00:19:40,530 --> 00:19:41,360
+Tidak apa-apaâ€”
+
+303
+00:19:45,340 --> 00:19:46,230
+Itu dingin!
+
+304
+00:19:47,990 --> 00:19:50,970
+Hei, rasa sakitnya juga hilang.
+
+305
+00:19:51,510 --> 00:19:54,470
+Cairan kebangkitan juga memiliki sifat peremajaan?
+
+306
+00:19:54,470 --> 00:19:56,300
+Tidak.
+
+307
+00:19:56,300 --> 00:20:01,090
+Hanya saja retakan-retakan kecil bisa diperbaiki saat pembatuan dibalik.
+
+308
+00:20:01,090 --> 00:20:04,220
+Apakah kamu tidak memperhatikan kita masih hidup meskipun wajah kita retak?
+
+309
+00:20:05,900 --> 00:20:06,930
+Itu benar.
+
+310
+00:20:06,930 --> 00:20:09,060
+Mari kita menuju tujuan kita.
+
+311
+00:20:09,500 --> 00:20:12,600
+Jika Anda ingin mandi dengan cairan peremajaan yang sebenarnya.
+
+312
+00:20:12,600 --> 00:20:15,190
+Ketika Anda mengatakan tujuan di Hakone, maksud Anda...
+
+313
+00:20:22,930 --> 00:20:26,970
+Sebuah ruangan berantakan, langkah kaki tergesa-gesa...
+
+314
+00:20:26,970 --> 00:20:28,540
+Apakah mereka melarikan diri dengan panik?
+
+315
+00:20:30,990 --> 00:20:34,640
+Ya... Itulah yang mereka coba membuatku berpikir.
+
+316
+00:20:34,640 --> 00:20:35,880
+Bagaimana saya bisa tahu?
+
+317
+00:20:36,300 --> 00:20:40,880
+Senku, kamu bukan tipe pria yang berbalik dan lari.
+
+318
+00:20:41,980 --> 00:20:47,470
+Mengapa dia berbohong tentang Taiju yang tidak bisa bergerak, dan kemudian diam-diam menuju ke barat?
+
+319
+00:20:49,550 --> 00:20:50,780
+Sudah jelas.
+
+320
+00:20:51,300 --> 00:20:55,980
+Senku mencoba membuat senjata ilmu pengetahuan untuk melawanku.
+
+321
+00:20:56,860 --> 00:20:57,950
+Tetapi dimana?
+
+322
+00:21:01,390 --> 00:21:03,140
+Kami berhasil mencapai tujuan!
+
+323
+00:21:03,140 --> 00:21:04,740
+Air panas!
+
+324
+00:21:04,740 --> 00:21:06,010
+Wow...
+
+325
+00:21:06,010 --> 00:21:08,280
+Pemandangan Gunung Fuji juga sangat bagus.
+
+326
+00:21:08,280 --> 00:21:14,060
+Kalian berdua sebaiknya tidak lupa mengapa kami datang sejauh ini.
+
+327
+00:21:14,500 --> 00:21:16,170
+Jadi apa ini "senjata ilmu"?
+
+328
+00:21:18,020 --> 00:21:20,730
+Penemuan terbesar dalam sejarah manusia...
+
+329
+00:21:20,730 --> 00:21:21,900
+Smartphone?!
+
+330
+00:21:21,900 --> 00:21:23,510
+Anda pasti menyukai ponsel cerdas Anda.
+
+331
+00:21:24,180 --> 00:21:25,430
+Tidak.
+
+332
+00:21:25,860 --> 00:21:26,910
+Senjata.
+
+333
+00:21:26,910 --> 00:21:28,970
+Kami membuat mesiu.
+
+334
+00:21:30,930 --> 00:21:33,930
+Zaman batu adalah dua juta tahun yang lalu.
+
+335
+00:21:33,930 --> 00:21:38,440
+Dan bubuk mesiu ditemukan baru-baru ini, sekitar tahun 700 M.
+
+336
+00:21:38,850 --> 00:21:47,030
+Pada dasarnya, kita akan membelokkan peradaban 1.998.700 tahun ke depan.
+
+337
+00:21:47,470 --> 00:21:49,740
+Ini menggembirakan.
+
+338
+00:21:51,020 --> 00:21:52,380
+Hakone.
+
+339
+00:21:52,380 --> 00:21:55,590
+Jika mereka membuat bubuk mesiu, aku tidak punya kesempatan.
+
+340
+00:21:55,590 --> 00:22:00,630
+Aku akan menghentikan mereka sebelum Senku bisa melakukannya.
+
+341
+00:22:00,630 --> 00:22:04,010
+Untungnya, Jepang penuh dengan gunung berapi.
+
+342
+00:22:04,590 --> 00:22:08,470
+Pergi ke sumber air panas mana saja, dan Anda mendapatkan obral murah sepuasnya
+
+343
+00:22:08,470 --> 00:22:11,320
+belerang, komponen utama bubuk mesiu.
+
+344
+00:22:14,220 --> 00:22:20,270
+Ini adalah kelahiran senjata anti-Tsukasa pamungkas kami: bubuk hitam.
+
+345
+00:22:45,010 --> 00:22:47,540
+Mungkin aku tidak tahu harus berbuat apaã€€ã€€
+
+346
+00:22:47,540 --> 00:22:50,030
+Cepatlah, pikiranku ada di bulanã€€ã€€
+
+347
+00:22:50,030 --> 00:22:52,850
+Terbang ke tempat angin bertiup
+
+348
+00:22:53,890 --> 00:22:55,780
+Di tanganku terbangun
+
+349
+00:22:55,780 --> 00:22:57,220
+Semangat meluap
+
+350
+00:22:57,220 --> 00:22:59,730
+Hanya berkeliaran di dunia ini
+
+351
+00:22:59,730 --> 00:23:01,860
+Anda yang bersinar murni
+
+352
+00:23:01,860 --> 00:23:03,740
+Tidak akan pernah bisa ditusuk dengan pisau berkarat
+
+353
+00:23:03,740 --> 00:23:05,460
+Aku terbakar seperti api yang menjadi liar
+
+354
+00:23:05,460 --> 00:23:07,930
+Saat panah melesat menembus hatiku
+
+355
+00:23:07,930 --> 00:23:10,550
+Kebisingan yang menggangguku dilepaskan
+
+356
+00:23:10,550 --> 00:23:12,880
+Semuanya berbeda sejak saat itu
+
+357
+00:23:12,880 --> 00:23:14,940
+Jika saya tidak mencoba, saya tidak akan pernah tahu
+
+358
+00:23:15,370 --> 00:23:20,510
+Mengapa bunga mekar?
+
+359
+00:23:20,510 --> 00:23:24,880
+Suaramu menggema
+
+360
+00:23:24,880 --> 00:23:26,010
+Katakan padaku mengapa?
+
+361
+00:23:26,010 --> 00:23:28,100
+Aku hanya berteriak ke langitã€€ã€€
+
+362
+00:23:28,100 --> 00:23:30,810
+Tapi Anda tidak tidak lagi di sini, kan?
+
+363
+00:23:30,810 --> 00:23:35,360
+Kehidupan yang kami konfirmasi hari itu
+
+364
+00:23:35,360 --> 00:23:41,150
+Anda bisa menyebutnya mimpi sekilas jika Anda mau
+
+365
+00:23:41,150 --> 00:23:45,910
+Tapi aku akan menyelamatkanmu dari yang terluka hari ini
+
+366
+00:23:50,990 --> 00:23:54,820
+Nyalakan Sinyal Asap
+
+367
+00:23:54,120 --> 00:23:59,040
+Nyalakan Sinyal Asap
+
+368
+00:23:58,540 --> 00:24:01,000
+Episode selanjutnya
+
+369
+00:23:58,540 --> 00:24:01,000
+Nyalakan Sinyal Asap
+
+370
+00:24:01,000 --> 00:24:06,250
+Ini adalah karya fiksi, tetapi tanaman, hewan, dan metode produksi yang dijelaskan didasarkan pada kenyataan. Mencari makan dan membuat sesuatu atas kemauan sendiri sangatlah berbahaya dan, dalam beberapa kasus, ilegal. Tolong jangan meniru tanpa keahlian.
