@@ -1,0 +1,1 @@
+Melanjutkan kisah Rimuru Tempest, di mana sebelumnya dia adalah pria berusia 37 tahun yang mati ditikam. Dia bereinkarnasi menjadi sebuah Slime. Dia bertemu dengan Veldora Tempest, naga yang disegel selama 300 tahun dan berjanji untuk membantunya. Veldora menganugerahkan nama Rimuru Tempest, yang kemudian memulai perjalanan barunya hingga membangun negeri.
