@@ -1,0 +1,1 @@
+Setelah lima tahun menyimpan perasaan yang tak terucapkan, siswa sekolah menengah Taiju Ooki akhirnya siap untuk menyatakan cintanya kepada Yuzuriha Ogawa. Namun, tepat ketika Taiju memulai pengakuannya, lampu hijau yang menyilaukan menyerang Bumi dan membatu umat manusia di seluruh dunia—mengubah setiap manusia menjadi batu.
