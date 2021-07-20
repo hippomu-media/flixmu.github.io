@@ -1,0 +1,3 @@
+Aku, sang protagonis, hanyalah seorang gadis SMA biasa, tapi tiba-tiba aku bereinkarnasi sebagai monster laba-laba di dunia fantasi. Bukan hanya itu, tapi aku terbangun di ruang bawah tanah yang dipenuhi monster ganas. Berbekal hanya pengetahuan manusia saya dan kepositifan saya yang luar biasa, saya terpaksa menggunakan jaring laba-laba dan perangkap untuk mengalahkan monster yang jauh lebih kuat hanya untuk tetap hidup ...
+
+Maka mulailah kisah bertahan hidup labirin dari seorang gadis dengan kekuatan mental yang luar biasa yang hidup sebagai salah satu binatang dengan peringkat terendah!
